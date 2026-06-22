@@ -730,8 +730,8 @@
 
 <!-- ── FOOTER ── -->
 <footer>
-  <div class="footer-logo">Қаныш Сәтбаев — 1899–1964</div>
-  <p class="footer-text">Қазақтың тұңғыш академигі. Ұлт мақтанышы.</p>
+  <div class="footer-logo">@ Кадринова Дана. Все права защищены.</div>
+  <p class="footer-text">Astana IT University</p>
 </footer>
 
 </body>
